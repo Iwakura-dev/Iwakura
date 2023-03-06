@@ -1,5 +1,5 @@
 ![Mahiro stats](https://github-readme-stats.vercel.app/api?username=Mahlro&count_private=true&show_icons=true&theme=radical )
-![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHIRO&show_icons=true&theme=radical)
+![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHlRO&show_icons=true&theme=radical)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![](https://img.shields.io/badge/-Next-000000?logo=next.js&logoColor=fff)
